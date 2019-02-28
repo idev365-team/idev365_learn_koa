@@ -1,0 +1,13 @@
+{
+  "name": "lesson14",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon app.js"
+  },
+  "dependencies": {
+    "koa": "^2.7.0",
+    "nodemon": "^1.18.10"
+  }
+}
