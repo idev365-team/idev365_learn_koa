@@ -12,7 +12,7 @@
 
 # 跟山地人学koa系列教程
 
-## 课02.为啥选择学koa？
+## 课02.山地人的koa专题会怎么讲？
 
 * 微信:colin3dmax
 
@@ -87,7 +87,7 @@
 
 # 跟山地人学koa系列教程
 
-## 课09.koa中如何统一处理错误
+## 课09.koa中如何统一处理错误？
 
 * 微信:colin3dmax
 
@@ -98,7 +98,7 @@
 
 # 跟山地人学koa系列教程
 
-## 课10.koa中如何统一处理错误
+## 课10.深入理解koa的context
 
 * 微信:colin3dmax
 
@@ -120,7 +120,7 @@
 
 # 跟山地人学koa系列教程
 
-## 课12.理解koa中API——ctx.state
+## 课12.理解koa中API——state、app、emit
 
 * 微信:colin3dmax
 

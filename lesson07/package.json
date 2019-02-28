@@ -1,0 +1,10 @@
+{
+  "name": "lesson07",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "keygrip": "^1.0.3",
+    "koa": "^2.7.0"
+  }
+}

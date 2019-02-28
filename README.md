@@ -9,7 +9,7 @@
 >* 课07.给Cookie加把锁
 >* 课08.koa里的context
 >* 课09.koa中如何统一处理错误
->* 课10.koa中如何统一处理错误
+>* 课10.koa的context里都有啥?
 >* 课11.理解koa中API——ctx.req和res
 >* 课12.理解koa中API——ctx.state
 >* 课13.理解koa中API——cookie的操作
