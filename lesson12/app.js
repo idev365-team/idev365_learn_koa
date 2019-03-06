@@ -2,7 +2,7 @@ const Koa = require("koa");
 const app = new Koa();
 
 
-async function fetchUserInfo(){
+ function fetchUserInfo(){
     return new Promise((resolve,reject)=>{
         setTimeout(function(){
             resolve("山地人")
